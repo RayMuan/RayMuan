@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=RayMuan%20GitHub%20👨‍💻&width=1100&height=200)](https://github.com/Akshay090/svg-banners)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayMuan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
