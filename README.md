@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=JIWoo%20GitHub%20👨‍💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayMuan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
