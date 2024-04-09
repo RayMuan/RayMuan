@@ -4,6 +4,7 @@
 **RayMuan/RayMuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://github-readme-activity-graph.vercel.app/graph?username=RayMuan&theme=dracula
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RayMuan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on ...
